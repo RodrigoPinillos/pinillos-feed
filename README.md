@@ -16,10 +16,10 @@ Genera automáticamente el feed de productos de **https://www.pinillos.com.ar/**
 También se puede ejecutar a mano desde la pestaña **Actions → Run workflow**.
 
 ## URL del feed (para Google Merchant Center)
-Una vez en GitHub, el archivo queda en:
+El archivo queda público en:
 
 ```
-https://raw.githubusercontent.com/<USUARIO>/<REPO>/main/google_merchant_feed_pinillos.tsv
+https://raw.githubusercontent.com/RodrigoPinillos/pinillos-feed/main/google_merchant_feed_pinillos.tsv
 ```
 
 En Merchant Center: **Feeds → Agregar feed → Argentina / Español / ARS → "Recuperación programada (scheduled fetch)"**,
